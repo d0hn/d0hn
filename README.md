@@ -1,7 +1,7 @@
 # Let's craft something beautiful together.
 
 Open-source enthusiast, entrepreneur. Surfing the web in style.
-Founder of @nue.digital, @ugotuje-co
+Founder of nue.digital, ugotuje.co
 
 ## Currently working on
 - Fully customisable e-commerce / cms system
@@ -10,12 +10,13 @@ Founder of @nue.digital, @ugotuje-co
 Get in touch with your next development partner
 https://nue.digital
 
-#### My daily stack
+#### My stack
 - PHP, C#
 - Laravel, CodeIgniter, Symfony
 - Vue.JS, React, React Native, Alpine JS
+- Many more...
 
-##### Reach me at
+##### Reach me
 maciej@nue.digital
 
 Ciao, see ya soon!
