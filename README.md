@@ -1,7 +1,7 @@
 # Let's craft something beautiful together.
 
 Open-source enthusiast, entrepreneur. Surfing the web in style.
-Founder of nue.digital, ugotuje.co
+Founder of nue.digital, ugotuje.co, senc.uk
 
 ## Currently working on
 - Fully customisable e-commerce / cms system
