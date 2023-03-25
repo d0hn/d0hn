@@ -1,17 +1,13 @@
 # Let's craft something beautiful together.
 
-Open-source enthusiast, entrepreneur. Surfing the web in style.
-Founder of nue.digital, ugotuje.co, senc.uk
-
-## Currently working on
-- Fully customisable e-commerce / cms system
+Open-source enthusiast, entrepreneur.
 
 ### Want to hire me?
 Get in touch with your next development partner
 https://nue.digital
 
 #### My stack
-- PHP, C#
+- PHP, JavaScript, TypeScript
 - Laravel, CodeIgniter, Symfony
 - Vue.JS, React, React Native, Alpine JS
 - Many more...
